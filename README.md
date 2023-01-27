@@ -6,4 +6,4 @@ no ramo escolar.
 
 A card made for my friend work might show about your school service. 
 #
-made HTML,CSS,Bootstrap,JS
+`Made in : HTML,CSS,Bootstrap,JS`
